@@ -1,4 +1,4 @@
-package flower.store;
+package store;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -18,4 +18,5 @@ public class Flower {
     public String getColor() {
         return color.toString();
     }
+    public String getType() { return flowerType.toString(); }
 }
