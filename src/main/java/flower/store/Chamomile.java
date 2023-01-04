@@ -1,4 +1,4 @@
-package store;
+package flower.store;
 
 public class Chamomile extends Flower {
     public Chamomile()
